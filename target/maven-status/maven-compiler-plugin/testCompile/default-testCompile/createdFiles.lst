@@ -1,0 +1,5 @@
+io/dropwizard/migrations/CloseableLiquibaseTest.class
+com/fabfresh/api/IntegrationTest.class
+com/fabfresh/api/resources/PeopleResourceTest$1.class
+com/fabfresh/api/resources/PeopleResourceTest.class
+com/fabfresh/api/resources/PersonResourceTest.class
